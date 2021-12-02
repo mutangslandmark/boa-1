@@ -3,3 +3,5 @@ userNames:
   Peter
   Joshua
   Dominion
+  Caleb
+  Mutanga
